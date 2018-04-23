@@ -97,8 +97,7 @@ La Ley 1450 de 2011 estipuló:
 >
 > *Fragmento del artículo 36 de la Ley 1450 de 2011*
 
-[]{#_Toc404549237 .anchor}Ilustración . Clasificación de proyectos de
-investigación o desarrollo tecnológico. Fuente:
+Clasificación de proyectos de investigación o desarrollo tecnológico. Fuente:
 
 El Capítulo 1 del Acuerdo 9 de 2014 del CNBT precisó el significado del
 término “a través”: “Investigadores, grupos de investigación; centros de
@@ -123,7 +122,6 @@ por donación fue significativamente superior a la de años previos.
 Mientras que en 2011 se presentaron y rechazaron 3 proyectos, en 2012 se
 presentaron 37 proyectos y se rechazaron 18.
 
-[[]{#_Toc404549228 .anchor}]{#_Ref402610725 .anchor}Gráfico .
 Solicitudes para incentivos tributarios, 2003 - 2012. Fuente:
 
 ![](http://camicabrera.com/beneficiostributariosidi/media/image1.png)
@@ -169,9 +167,7 @@ recursos asignados cada año sean destinados equilibradamente en sectores
 claves de la industria, sin importar el orden en el que fueron
 presentados.
 
-[[]{#_Toc404549247 .anchor}]{#_Ref404034226 .anchor}Tabla . Número de
-solicitudes, montos y proporciones de proyectos presentados por
-deducción. Fuente:
+Número de solicitudes, montos y proporciones de proyectos presentados por deducción. Fuente:
 
   **DEDUCCIONES**
   ------------------------------------------------------------------------ ----------- ----------- ----------- -----------
@@ -289,9 +285,7 @@ Esta iniciativa tiene el potencial de respaldar proyectos de
 transformación productiva (en I+D) sostenibles a través del talento de
 los jóvenes en el campo “ingeniería y tecnología”.
 
-[[]{#_Toc404549248 .anchor}]{#_Ref402609061 .anchor}Tabla . Jóvenes
-investigadores apoyados por Colciencias según área OCDE, 2003-2012.
-Fuente:
+Jóvenes investigadores apoyados por Colciencias según área OCDE, 2003-2012. Fuente:
 
 ![](http://camicabrera.com/beneficiostributariosidi/media/image2.png)
 
@@ -383,9 +377,7 @@ de 28 billones de pesos (Tabla 8). Todo esto resulta en un ambiente
 favorable para aplicar, en el corto plazo, la metodología diseñada en
 este trabajo de investigación.
 
-[[]{#_Toc404549253 .anchor}]{#_Ref404347302 .anchor}Tabla . Cálculo de
-la Inversión en Actividades de Ciencia y Tecnología 2015 – 2018 con base
-en las metas del Plan Nacional de Desarrollo 2014 – 2018. Fuente:
+Cálculo de la Inversión en Actividades de Ciencia y Tecnología 2015 – 2018 con base en las metas del Plan Nacional de Desarrollo 2014 – 2018. Fuente:
 
   --------------------------------------------- **2015**   **2016**   **2017**   **2018**
   --------------------------------------------- ---------- ---------- ---------- ----------
