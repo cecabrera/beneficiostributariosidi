@@ -387,7 +387,7 @@ este trabajo de investigación.
 la Inversión en Actividades de Ciencia y Tecnología 2015 – 2018 con base
 en las metas del Plan Nacional de Desarrollo 2014 – 2018. Fuente:
 
-                                                **2015**   **2016**   **2017**   **2018**
+  --------------------------------------------- **2015**   **2016**   **2017**   **2018**
   --------------------------------------------- ---------- ---------- ---------- ----------
   PIB en billones COP                           830,4      892,5      951,6      1017,9
   % Inversión en CTI/ PIB                       0,60%      0,70%      0,80%      0,90%
@@ -399,114 +399,102 @@ empresarios y las diferentes instancias del Gobierno nacional y regional
 deben converger en un solo propósito eficiente y metodológico que busque
 como objetivo la mejora de la calidad de vida de los colombianos.
 
-Anexos {#anexos .Title}
-======
+# ANEXOS
 
-[[[]{#_Toc404549254 .anchor}]{#_Ref398827246 .anchor}]{#_Ref403334391
-.anchor}Anexo . Aspectos que describen un proyecto de Investigación
-Científica
+Aspectos que describen un proyecto de Investigación Científica
 
-  **Aspectos que describen un proyecto de Investigación Científica** (Colciencias, 2011):
-  -------------------------------------------------------------------------------------------------------------
-           Título del proyecto
-           Monto solicitado para deducción tributaria
-           Resumen ejecutivo
-           Tipo de proyecto
-           Identificación y descripción del conocimiento que generará el proyecto de investigación
-           Planteamiento del problema o necesidad
-           Estado del arte
-           Objetivos
-           Metodología propuesta
-           Trayectoria y capacidad del grupo de trabajo o de las instituciones que participan en el proyecto
-           Distribuciones de responsabilidades
-           Bibliografía
-           Impacto ambiental del proyecto
-           Aspectos de propiedad intelectual
-           Cronograma
-           Resultados
-           Impactos esperados
-           Personal
-           Presupuesto
-  o   Personal
-  o   Adquisición de equipos
-  o   Materiales e insumos
-  o   Software
-  o   Servicios tecnológicos
-  o   Consultoría especializada
-  o   Capacitación
-  o   Viajes
-  o   Salidas de campo
-  o   Bibliografía
-  o   Gastos de propiedad intelectual
-  o   Adecuación de infraestructura
-  o   Certificaciones
-  o   Gastos de administración
+**Aspectos que describen un proyecto de Investigación Científica** (Colciencias, 2011):
 
-[[[]{#_Toc404549255 .anchor}]{#_Ref398827259 .anchor}]{#_Ref403334398
-.anchor}Anexo . Aspectos que describen un proyecto de Desarrollo
-Tecnológico
+  *  Título del proyecto
+  *  Monto solicitado para deducción tributaria
+  *  Resumen ejecutivo
+  *  Tipo de proyecto
+  *  Identificación y descripción del conocimiento que generará el proyecto de investigación
+  *  Planteamiento del problema o necesidad
+  *  Estado del arte
+  *  Objetivos
+  *  Metodología propuesta
+  *  Trayectoria y capacidad del grupo de trabajo o de las instituciones que participan en el proyecto
+  *  Distribuciones de responsabilidades
+  *  Bibliografía
+  *  Impacto ambiental del proyecto
+  *  Aspectos de propiedad intelectual
+  *  Cronograma
+  *  Resultados
+  *  Impactos esperados
+  *  Personal
+  *  Presupuesto
+    * Personal
+    * Adquisición de equipos
+    * Materiales e insumos
+    * Software
+    * Servicios tecnológicos
+    * Consultoría especializada
+    * Capacitación
+    * Viajes
+    * Salidas de campo
+    * Bibliografía
+    * Gastos de propiedad intelectual
+    * Adecuación de infraestructura
+    * Certificaciones
+    * Gastos de administración
 
-  **Aspectos que describen proyectos de “Desarrollo Tecnológico” (Colciencias, 2011):**
-  -------------------------------------------------------------------------------------------------------------
-           Título del proyecto
-           Monto solicitado para deducción tributaria
-           Resumen ejecutivo
-           Tipo de proyecto
-           Identificación y caracterización del desarrollo tecnológico de la propuesta
-           Pre-evaluación del mercado para el desarrollo tecnológico
-           Planteamiento del problema o necesidad
-           Estado del Arte
-           Objetivos
-           Metodología propuesta
-           Trayectoria y capacidad del grupo de trabajo o de las instituciones que participan en el proyecto
-           Distribución de responsabilidades
-           Bibliografía
-           Impacto ambiental del proyecto
-           Aspectos de propiedad intelectual
-           Cronograma
-           Resultados
-           Impactos esperados
-           Personal
-           Presupuesto
-  o   Personal
-  o   Adquisición de equipos
-  o   Materiales e insumos
-  o   Software
-  o   Servicios tecnológicos
-  o   Consultoría especializada
-  o   Capacitación
-  o   Viajes
-  o   Salidas de campo
-  o   Bibliografía
-  o   Difusión de resultados
-  o   Gastos de propiedad intelectual
-  o   Adecuación de infraestructura
-  o   Certificaciones
-  o   Gastos de Administración
+Aspectos que describen un proyecto de Desarrollo Tecnológico
 
-[[]{#_Toc404549256 .anchor}]{#_Ref401675858 .anchor}Anexo . Promedio
-anual de horas trabajadas por personas empleadas en algunos países del
-mundo. Fuente:
+**Aspectos que describen proyectos de “Desarrollo Tecnológico” (Colciencias, 2011):**
+  *  Título del proyecto
+  *  Monto solicitado para deducción tributaria
+  *  Resumen ejecutivo
+  *  Tipo de proyecto
+  *  Identificación y caracterización del desarrollo tecnológico de la propuesta
+  *  Pre-evaluación del mercado para el desarrollo tecnológico
+  *  Planteamiento del problema o necesidad
+  *  Estado del Arte
+  *  Objetivos
+  *  Metodología propuesta
+  *  Trayectoria y capacidad del grupo de trabajo o de las instituciones que participan en el proyecto
+  *  Distribución de responsabilidades
+  *  Bibliografía
+  *  Impacto ambiental del proyecto
+  *  Aspectos de propiedad intelectual
+  *  Cronograma
+  *  Resultados
+  *  Impactos esperados
+  *  Personal
+  *  Presupuesto
+    * Personal
+    * Adquisición de equipos
+    * Materiales e insumos
+    * Software
+    * Servicios tecnológicos
+    * Consultoría especializada
+    * Capacitación
+    * Viajes
+    * Salidas de campo
+    * Bibliografía
+    * Difusión de resultados
+    * Gastos de propiedad intelectual
+    * Adecuación de infraestructura
+    * Certificaciones
+    * Gastos de Administración
+
+Promedio anual de horas trabajadas por personas empleadas en algunos países del mundo. Fuente:
 
 ![](http://camicabrera.com/beneficiostributariosidi/media/image3.jpeg)
 
-[[]{#_Toc404549257 .anchor}]{#_Ref402007318 .anchor}Anexo . Indicadores
-de Innovación en América Latina. Fuente:
+Indicadores de Innovación en América Latina. Fuente:
 
 ![](http://camicabrera.com/beneficiostributariosidi/media/image4.jpeg)
 
-[[]{#_Toc404549258 .anchor}]{#_Ref402185498 .anchor}Anexo . Inversión en
-la innovación en las empresas. Fuente:
+Inversión en la innovación en las empresas. Fuente:
 
 ![](http://camicabrera.com/beneficiostributariosidi/media/image5.png)
 
-[[]{#_Toc404549260 .anchor}]{#_Ref402185502 .anchor}Anexo .
 Investigadores por 1.000 personas en la fuerza laboral. Fuente:
 
 ![](http://camicabrera.com/beneficiostributariosidi/media/image6.png)
 
-[[]{#_Toc404549261 .anchor}]{#_Ref402560587 .anchor}Anexo . Tipología de
-I+D
+Tipología de I+D
 
 Las definiciones a continuación son tomadas del documento de tipología
 de proyectos documentado en el Acuerdo 1 de 2011 del Consejo Nacional de
