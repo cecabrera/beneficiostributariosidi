@@ -126,7 +126,7 @@ presentaron 37 proyectos y se rechazaron 18.
 [[]{#_Toc404549228 .anchor}]{#_Ref402610725 .anchor}Gráfico .
 Solicitudes para incentivos tributarios, 2003 - 2012. Fuente:
 
-![](/media/image1.png){width="6.072916666666667in"
+![](http://camicabrera.com/beneficiostributariosidi/media/image1.png){width="6.072916666666667in"
 height="3.75in"}
 
 La recepción de proyectos se gestiona mediante dos modalidades:
@@ -294,7 +294,7 @@ los jóvenes en el campo “ingeniería y tecnología”.
 investigadores apoyados por Colciencias según área OCDE, 2003-2012.
 Fuente:
 
-![](/media/image2.png){width="6.125in" height="3.3125in"}
+![](http://camicabrera.com/beneficiostributariosidi/media/image2.png){width="6.125in" height="3.3125in"}
 
 Conclusiones y alcance {#conclusiones-y-alcance .Title}
 ======================
@@ -489,25 +489,25 @@ Tecnológico
 anual de horas trabajadas por personas empleadas en algunos países del
 mundo. Fuente:
 
-![](/media/image3.jpeg){width="6.1375in"
+![](http://camicabrera.com/beneficiostributariosidi/media/image3.jpeg){width="6.1375in"
 height="4.0875in"}
 
 [[]{#_Toc404549257 .anchor}]{#_Ref402007318 .anchor}Anexo . Indicadores
 de Innovación en América Latina. Fuente:
 
-![](/media/image4.jpeg){width="6.1375in"
+![](http://camicabrera.com/beneficiostributariosidi/media/image4.jpeg){width="6.1375in"
 height="3.5340277777777778in"}
 
 [[]{#_Toc404549258 .anchor}]{#_Ref402185498 .anchor}Anexo . Inversión en
 la innovación en las empresas. Fuente:
 
-![](/media/image5.png){width="6.135416666666667in"
+![](http://camicabrera.com/beneficiostributariosidi/media/image5.png){width="6.135416666666667in"
 height="5.208333333333333in"}
 
 [[]{#_Toc404549260 .anchor}]{#_Ref402185502 .anchor}Anexo .
 Investigadores por 1.000 personas en la fuerza laboral. Fuente:
 
-![](/media/image6.png){width="6.135416666666667in"
+![](http://camicabrera.com/beneficiostributariosidi/media/image6.png){width="6.135416666666667in"
 height="5.072916666666667in"}
 
 [[]{#_Toc404549261 .anchor}]{#_Ref402560587 .anchor}Anexo . Tipología de
